@@ -26,4 +26,6 @@ const fs = require('fs');
 // } );
 
 
+// fs.appendFileSync("./abes.text" , "from abes engineering college");
 
+fs.appendFile("./abes.text" , " and My name is Sudhakar Verma" , () => {});

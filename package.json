@@ -1,0 +1,23 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "2406"
+  ],
+  "homepage": "https://github.com/sudhakar3748/Node_Test#readme",
+  "bugs": {
+    "url": "https://github.com/sudhakar3748/Node_Test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhakar3748/Node_Test.git"
+  },
+  "license": "ISC",
+  "author": "svrna01",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

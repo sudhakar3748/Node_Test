@@ -28,4 +28,6 @@ const fs = require('fs');
 
 // fs.appendFileSync("./abes.text" , "from abes engineering college");
 
-fs.appendFile("./abes.text" , " and My name is Sudhakar Verma" , () => {});
+// fs.appendFile("./abes.text" , " and My name is Sudhakar Verma" , () => {});
+
+fs.cpSync("./abes.txt" , "./a1.txt");
